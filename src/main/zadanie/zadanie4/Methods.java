@@ -2,6 +2,8 @@ package zadanie.zadanie4;
 
 public class Methods {
     public static void main(String[] args) {
+        Methods m = new Methods();
+        m.method3(true,3,7,16,199);
 
     }
 
