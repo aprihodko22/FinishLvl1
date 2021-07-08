@@ -13,5 +13,6 @@ public class Runner {
 //        Академия умеет принимать на учебу новых студенов и выводить список студентов в штате (не отчисленных).
             Academy academy = new Academy();
             academy.list();
+
     }
 }
